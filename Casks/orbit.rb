@@ -8,7 +8,7 @@ cask "orbit" do
   homepage "https://orbitmac.com"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Orbit.app"
 
