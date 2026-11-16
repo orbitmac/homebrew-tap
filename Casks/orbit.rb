@@ -1,6 +1,6 @@
 cask "orbit" do
   version "1.1.1"
-  sha256 "1fb46b2f74d6ad2f4229ab6facf0ad6bbf79cc36b6428da105e27224c0e3510c"
+  sha256 "132aa8c8d56bba66d93faf4bfd753ca7f546fff08122b5064fce8ecf5df72def"
 
   url "https://orbitmac.com/downloads/Orbit-#{version}.dmg"
   name "Orbit"
